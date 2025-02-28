@@ -2,7 +2,7 @@
 
 mehmet efe, the owner of the fridayim special mod,
 mehmet steals the supercell id token of those who use the mod
-and with this tokens, he can enter the account of the people who use the mod
+and with this tokens, he can login the account of the people who use the mod
 the most infamous part is that mehmet says that "I stole these tokens from Tale Stars users".
 
 proof that mehmet efe stole tokens:
@@ -48,3 +48,5 @@ proof:
 
 How does it feel to know nothing and be told we know nothing mehmet?
 ![lol](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img1.jpg?raw=true)
+
+![mehmetefe](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/mehmetefe.png?raw=true)
