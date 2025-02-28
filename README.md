@@ -29,7 +29,7 @@ everyone believed me.
 ## Why do most people in bsre love mehmet?
 
 Because they think mehmet knows something.
-but no mehmet knows nothing.
+**But no, mehmet knows nothing.**
 
 Proof:
 
