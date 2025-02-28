@@ -6,7 +6,7 @@ _______________________________________
 Mehmet Efe, the owner of the **F.R.I.D.A.Y/I.M special mod** (token stealer mod),
 Mehmet steals the Supercell ID token of those who use the mod.\
 In the first APK file he released, the script was unencrypted and account stealer codes were visible\
-![You can access mehmets script file here](https://github.com/TaleTeam/mehmetefefridayim/main/fridayimmodscript.js)
+[You can access mehmets script file here](https://github.com/TaleTeam/mehmetefefridayim/main/fridayimmodscript.js)
 
 After all this, he claims he didn't steal accounts\
 And with this tokens, he can login the account of the people who use the mod
