@@ -49,4 +49,5 @@ proof:
 How does it feel to know nothing and be told we know nothing mehmet?
 ![lol](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img1.jpg?raw=true)
 
+mehmets face btw:
 ![mehmetefe](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/mehmetefe.png?raw=true)
