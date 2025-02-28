@@ -1,5 +1,4 @@
 ## Who is "mehmet efe f.r.i.d.a.y/i.m"
-![mehmetefe](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/mehmetefe.png?raw=true)
 
 mehmet efe, the owner of the fridayim special mod,
 mehmet steals the supercell id token of those who use the mod
