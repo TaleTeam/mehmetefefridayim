@@ -5,6 +5,13 @@ mehmet steals the supercell id token of those who use the mod
 and with this tokens, he can login the account of the people who use the mod
 **the most infamous part is that mehmet says that "I stole these tokens from Tale Stars users".**
 
+Proof that mehmet efe said "I stole these tokens from Tale Stars users":
+![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img6.png?raw=true)
+
+Why is the number of "stolen Tale Stars accounts" so close to the number of users of your mod mehmet?
+![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img8.png?raw=true)
+![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img7.png?raw=true)
+
 Proof that mehmet efe stole tokens:
 [Proof Video](https://vimeo.com/1061349822/bf9ada8ba1?ts=0&share=copy)
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img3.png?raw=true)
