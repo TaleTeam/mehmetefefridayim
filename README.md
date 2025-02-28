@@ -1,53 +1,63 @@
-## Who is "mehmet efe f.r.i.d.a.y/i.m"
+Here you can see what kind of idiot Mehmet Efe was, how he stole people's accounts, how he had gpt write all his code
+_______________________________________
 
-mehmet efe, the owner of the fridayim special mod,
-mehmet steals the supercell id token of those who use the mod
-and with this tokens, he can login the account of the people who use the mod
-**the most infamous part is that mehmet says that "I stole these tokens from Tale Stars users".**
+## Who Is "Mehmet Efe F.R.I.D.A.Y/I.M"
 
-Proof that mehmet efe said "I stole these tokens from Tale Stars users":
+Mehmet Efe, the owner of the **F.R.I.D.A.Y/I.M special mod** (token stealer mod),
+Mehmet steals the Supercell ID token of those who use the mod.\
+In the first APK file he released, the script was unencrypted and account stealer codes were visible\
+![You can access mehmets script file here](https://github.com/TaleTeam/mehmetefefridayim/main/fridayimmodscript.js)
+
+After all this, he claims he didn't steal accounts\
+And with this tokens, he can login the account of the people who use the mod
+**the most infamous part is that Mehmet says that "I stole these tokens from Tale Stars users".**
+
+### Proof that Mehmet Efe said "I stole these tokens from Tale Stars users":
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img6.png?raw=true)
 
 Why is the number of "stolen Tale Stars accounts" so close to the number of users of your mod mehmet?
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img8.png?raw=true)
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img7.png?raw=true)
 
-Proof that mehmet efe stole tokens:
-[Proof Video](https://vimeo.com/1061349822/bf9ada8ba1?ts=0&share=copy)
+### Detailed proof that Mehmet Efe stole tokens
+[Watch video proof recorded on Mehmet Efe's mod](https://vimeo.com/1061349822/bf9ada8ba1?ts=0&share=copy)
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img3.png?raw=true)
 
-Also mehmet himself admitted to stealing tokens:
+#### Also Mehmet himself admitted to stealing tokens:
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img2.png?raw=true)
 
 **Translate:**
-everything I said is true.
-but I'm never saying that I didn't steal there.
-I am talking about the nonsense of those idiots.
-so it's smart.
-everyone believed me.
+> everything I said is true.\
+> but I'm never saying that I didn't steal there.\
+> I am talking about the nonsense of those idiots.\
+> so it's smart.\
+> everyone believed me.
+_______________________________________
+## Why do most people in BSRE love Mehmet?
 
-## Why do most people in bsre love mehmet?
-
-Because they think mehmet knows something.
-**But no, mehmet knows nothing.**
+Because they think Mehmet knows something.\
+**But no, Mehmet knows nothing. You can understand this very clearly from the messages he wrote and proof below.**
 
 Proof:
 
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img4.png?raw=true)
 
-"i see python frida script first time"
+> "i see python frida script first time"
+
 Believes that data encrypted in frida script cannot be decrypted in python ☠️
 
-**Also fridayim special mod's script is completely AI generated.**
+
+**Also F.R.I.D.A.Y/I.M Special Mod script is completely AI generated.**
 
 Proof:
 
-[fridayim special mod script](https://github.com/TaleTeam/mehmetefefridayim/blob/main/fridayimmodscript.js)
-he didn't even change the encryption key "your_key_here"
+[F.R.I.D.A.Y/I.M Special Mod Script](https://github.com/TaleTeam/mehmetefefridayim/blob/main/fridayimmodscript.js)
 
-### "But mehmet knows how to do anti knockback"
+He didn't even change the encryption key "your_key_here"
 
-**mehmet got it from someone else, like everything else he owns.**
+### "But Mehmet Knows How To Do Anti Knockback"
+
+**No, that's wrong too. Mehmet got it from someone else, like everything else he owns.**
 
 Proof:
 
@@ -56,5 +66,5 @@ Proof:
 How does it feel to know nothing and be told we know nothing mehmet?
 ![lol](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img1.jpg?raw=true)
 
-mehmets face btw:
+Mehmets face btw:
 ![mehmetefe](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/mehmetefe.png?raw=true)
