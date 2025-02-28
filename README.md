@@ -6,8 +6,8 @@ and with this tokens, he can login the account of the people who use the mod
 the most infamous part is that mehmet says that "I stole these tokens from Tale Stars users".
 
 proof that mehmet efe stole tokens:
-![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img3.png?raw=true)
 [Proof Video](https://vimeo.com/1061349822/bf9ada8ba1?ts=0&share=copy)
+![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img3.png?raw=true)
 
 also mehmet himself admitted to stealing tokens:
 ![proof](https://github.com/TaleTeam/mehmetefefridayim/blob/main/images/img2.png?raw=true)
